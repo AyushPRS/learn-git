@@ -10,3 +10,4 @@ Following YT video
 ## Local Development
 
 1. Open hello.py in terminal.
+2. Enjoy
